@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👋 About Me
 
 🔭 I’m currently working on  
 Linux, Multiple servers, CI/CD pipelines, cloud infrastructure (AWS & GCP), and containerized environments using Docker & Ansible.
