@@ -1,5 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Learning and building projects in IT Operations and DevOps, focusing on Linux servers, cloud platforms (AWS & GCP), and automation.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly DevOps projects, automation scripts, CI/CD pipelines, and cloud setups where we can learn and grow together.<br><br>🤝 I’m looking for help with  <br>Understanding DevSecOps concepts, improving cloud security skills, and best practices in real-world DevOps environments.<br><br>🌱 I’m currently learning  <br>DevOps & DevSecOps fundamentals, Docker, Kubernetes basics, GitHub Actions, and cloud security concepts.<br><br>💬 Ask me about  <br>Linux basics, server management, Docker fundamentals, Git/GitHub, cloud basics, and automation scripting.<br><br>⚡ Fun fact  <br>I enjoy learning by breaking things… and then fixing them 🚀<br>
+## 👋 About Me
+
+🔭 I’m currently working on  
+Linux, Multiple servers, CI/CD pipelines, cloud infrastructure (AWS & GCP), and containerized environments using Docker & Ansible.
+
+👯 I’m looking to collaborate on  
+DevOps / DevSecOps projects, infrastructure automation (Ansible, Terraform), cloud migrations, and monitoring solutions.
+
+🤝 I’m looking for help with  
+Advanced security, cloud-native security tools, and large-scale DevSecOps best practices.
+
+🌱 I’m currently learning  
+DevSecOps, cloud security, GitHub Actions, Kubernetes hardening, and AI-driven automation.
+
+💬 Ask me about  
+Linux administration, AWS & GCP, Docker, CI/CD, Ansible, Git/GitHub, monitoring, and system automation.
+
+⚡ Fun fact  
+I manage hundreds of servers but still enjoy optimizing a single shell script 😄
+
 
 
 # 💻 Tech Stack:
