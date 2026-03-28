@@ -10,10 +10,10 @@ DevOps / DevSecOps projects, infrastructure automation (Ansible, Terraform), clo
 Advanced security, cloud-native security tools, and large-scale DevSecOps best practices.
 
 🌱 I’m currently learning  
-DevSecOps, cloud security, GitHub Actions, Kubernetes hardening, and AI-driven automation.
+DevSecOps, cloud security, Kubernetes hardening, and AI-driven automation.
 
 💬 Ask me about  
-Linux administration, AWS & GCP, Docker, CI/CD, Ansible, Git/GitHub, monitoring, and system automation.
+Linux administration, AWS & GCP, Docker, CI/CD, Ansible, Git/GitHub/Gitlab, monitoring, and system automation.
 
 ⚡ Fun fact  
 I manage hundreds of servers but still enjoy optimizing a single shell script 😄
